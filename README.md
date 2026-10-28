@@ -1,4 +1,4 @@
-Markdown
+
 # 🇸🇦 Fatoorah Pro - Saudi ZATCA Phase 2 E-Invoicing System (Backend)
 
 Enterprise-grade, secure Java Spring Boot backend built for **Saudi ZATCA Phase 2 (Fatoora Integration & Clearance)** compliance. It implements cryptographic stamp generation using ECDSA (`secp256k1`), blockchain-style invoice hash-chaining (ICV & PIH), UBL 2.1 XML generation, TLV QR code encoding, and persistent H2 database storage.
@@ -86,9 +86,7 @@ Frontend Integration: Connected via CORS-enabled REST endpoints supporting secur
 📄 License
 This project is licensed under the MIT License.
 
-Developed by Mohd Shahvez | Al-Madinah Tech Solutions Co.
+Developed by Mohd Shahvez 
 
 
----
-
-Isko copy karke backend folder mein daal do aur GitHub par push kar do—aapka poora project ab GitHub par professionally documented rahega!
+-
